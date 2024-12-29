@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263455625090",
+    "project_id": "snusvault-fca18",
+    "storage_bucket": "snusvault-fca18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263455625090:android:f860a9fdc637c1648e099b",
+        "android_client_info": {
+          "package_name": "com.snusvault.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35QFEhCiCyieMToZgGXH3GJ4PXGRilkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
