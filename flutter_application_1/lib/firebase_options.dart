@@ -40,48 +40,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDY4VqBTxxFK237rvHopoALFQa9MhECDhg',
-    appId: '1:263455625090:web:4b6584b1fcece1978e099b',
-    messagingSenderId: '263455625090',
-    projectId: 'snusvault-fca18',
-    authDomain: 'snusvault-fca18.firebaseapp.com',
-    storageBucket: 'snusvault-fca18.firebasestorage.app',
-  );
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD35QFEhCiCyieMToZgGXH3GJ4PXGRilkw',
-    appId: '1:263455625090:android:f860a9fdc637c1648e099b',
-    messagingSenderId: '263455625090',
-    projectId: 'snusvault-fca18',
-    storageBucket: 'snusvault-fca18.firebasestorage.app',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDY4VqBTxxFK237rvHopoALFQa9MhECDhg',
-    appId: '1:263455625090:web:48b3eae2a6894f388e099b',
-    messagingSenderId: '263455625090',
-    projectId: 'snusvault-fca18',
-    authDomain: 'snusvault-fca18.firebaseapp.com',
-    storageBucket: 'snusvault-fca18.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBX7cnucdRMuz4Cu1tac_QN1l5WUTMwj1I',
-    appId: '1:263455625090:ios:37103134fd1177b08e099b',
-    messagingSenderId: '263455625090',
-    projectId: 'snusvault-fca18',
-    storageBucket: 'snusvault-fca18.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication1',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBX7cnucdRMuz4Cu1tac_QN1l5WUTMwj1I',
-    appId: '1:263455625090:ios:37103134fd1177b08e099b',
-    messagingSenderId: '263455625090',
-    projectId: 'snusvault-fca18',
-    storageBucket: 'snusvault-fca18.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication1',
-  );
 
 }
